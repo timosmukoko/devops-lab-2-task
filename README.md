@@ -1,6 +1,6 @@
 Week 2 Lab – Bash & Git
 Timos Mukoko
-Student Num: x23329572
+Student Num: 23329572
 ---
 [devops-lab-2-task](https://github.com/timosmukoko/devops-lab-2-task.git)
 ---
